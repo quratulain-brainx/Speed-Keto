@@ -1,0 +1,40 @@
+/*MCT OIL Guarantee*/
+.mct-guarantee-header {
+    background-color: var(--primary-red);
+}
+.mct-guarantee-heading {
+    color: #ffffff;
+    font-family: 'Rakesly-Regular', sans-serif;
+    font-size: 2.5rem;
+}
+.mct-guarantee-text {
+    font-family: 'Raleway', sans-serif;
+    color: #000000;
+    font-size: 20px;
+}
+
+/*References*/
+.reference-container {
+    background-color: var(--dark-grey);
+    overflow: hidden;
+}
+.reference-heading {
+    color: var(--primary-grey);
+}
+.reference-container p,
+.reference-container ul,
+.reference-container li {
+    color: var(--primary-grey);
+    font-size: 12px;
+}
+.reference-container p {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.reference-container a:link {
+    text-decoration: none;
+    color: var(--primary-grey);
+}
+.reference-container a:visited {
+    color: #05b8b9;
+}

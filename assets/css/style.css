@@ -35,7 +35,6 @@ header {
     max-width: 100%;
     background-color: var(--dark-grey);
     border-bottom: 5px solid var(--primary-red);
-    /*overflow: hidden;*/
     box-shadow: 2px 2px 2px darkgrey;
 }
 .header-text {
@@ -128,7 +127,7 @@ div .cart-notification-text {
 }
 .cart-copyright {
     clear: right;
-    color: #D3D3D3;
+    color: var(--primary-grey);
     font-size: 14px;
 }
 
@@ -150,12 +149,12 @@ div .cart-notification-text {
 .guarantee-text {
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
-    color: #808285;
+    color: var(--primary-grey);
     font-size: 20px;
 }
 /*Footer*/
 .footer-text a {
-    color: #808285;
+    color: var(--primary-grey);
     text-decoration: none;
     margin: 10px;
 }
