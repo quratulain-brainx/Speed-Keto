@@ -7,6 +7,22 @@
     --primary-grey: #95979a;
     --dark-grey: #1a1e23;
 }
+@font-face {
+    font-family: BebasNeue-Regular;
+    src: url("../fonts/BebasNeue-Regular.ttf");
+}
+@font-face {
+    font-family: Rakesly-Light;
+    src: url("../fonts/rakesly lt.otf");
+}
+@font-face {
+    font-family: Rakesly-Regular;
+    src: url("../fonts/rakesly rg.otf");
+}
+@font-face {
+    font-family: Rakesly-Book;
+    src: url("../fonts/rakesly bk.otf");
+}
 
 * {
     margin: 0;
@@ -16,12 +32,11 @@
 
 /*Header*/
 header {
-    /*height: 180px;*/
-    /*height: fit-content;*/
     max-width: 100%;
     background-color: var(--dark-grey);
     border-bottom: 5px solid var(--primary-red);
     overflow: hidden;
+    box-shadow: 2px 2px 2px darkgrey;
 }
 .header-text {
     color: #ffffff;
@@ -68,9 +83,74 @@ header .mobile-logo {
 }
 .customize-steps {
     border: 2px dashed #000000;
+    box-shadow: 2px 2px 2px darkgrey;
 }
 .customize-steps p {
     font-size: 16px;
     font-weight: bold;
     color: #ffffff;
 }
+.main-text p {
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-family: 'Rakesly-Light', sans-serif;
+    letter-spacing: 1.5px;
+    padding: 10px 0;
+    margin-left: 0;
+}
+/*Add to Cart*/
+.card .container{
+    background-color: #f9f9f9;
+}
+.fa-cart-plus {
+    font-size: 50px;
+    color: #05b8b9;
+}
+.cart-header {
+    background-color: #33383e;
+    width: 100%;
+    padding: 20px;
+}
+div .cart-notification-text {
+    background-color: #ffffff;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px darkgrey;
+}
+.cart-notification-text p {
+    border-left: 5px solid #d24a17;
+}
+.cart-btn {
+    float: right;
+    background-color: #d24a17 !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
+.cart-copyright {
+    clear: right;
+    color: #D3D3D3;
+    font-size: 14px;
+}
+
+/*Guarantee Section*/
+.guarantee-container {
+    outline: 10px solid var(--dark-red);
+    border: 10px solid var(--primary-red);
+    padding: 20px;
+}
+.guarantee-heading {
+    color: var(--primary-red);
+    font-family: 'Rakesly-Regular', sans-serif;
+    font-size: 2.5rem;
+}
+.guarantee-container img {
+    max-width: 100%;
+    align-self: center;
+}
+.guarantee-text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: #808285;
+    font-size: 20px;
+}
+
