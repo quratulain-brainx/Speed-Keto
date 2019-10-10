@@ -187,8 +187,15 @@ textarea {
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
+@media only screen and (max-width: 35em) {
   /* Style adjustments for viewports that meet the condition */
+  header .desktop-logo {
+    display: none;
+  }
+  header .mobile-logo {
+    display: block;
+    margin: auto;
+  }
 }
 
 @media print,
