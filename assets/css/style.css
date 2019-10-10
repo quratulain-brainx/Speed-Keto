@@ -153,4 +153,20 @@ div .cart-notification-text {
     color: #808285;
     font-size: 20px;
 }
+/*Footer*/
+.footer-text a {
+    color: #808285;
+    text-decoration: none;
+    margin: 10px;
+}
+.footer-text a:link {
+    text-decoration: none;
+}
+.footer-text a:hover {
+    color: var(--dark-red);
+}
+.footer-certificate {
+    max-width: 200px;
+}
+
 
