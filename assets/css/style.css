@@ -35,7 +35,7 @@ header {
     max-width: 100%;
     background-color: var(--dark-grey);
     border-bottom: 5px solid var(--primary-red);
-    overflow: hidden;
+    /*overflow: hidden;*/
     box-shadow: 2px 2px 2px darkgrey;
 }
 .header-text {
