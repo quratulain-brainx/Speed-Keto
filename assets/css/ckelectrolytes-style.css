@@ -1,0 +1,48 @@
+
+/*Heading Styles*/
+.heading-level1 {
+    font-family: 'Rakesly-Regular', sans-serif;
+    color: var(--primary-red);
+    font-size: 3rem;
+}
+.heading-level2 {
+    font-family: 'Rakesly-Regular', sans-serif;
+    color: var(--primary-red);
+    font-size: 2.5rem;
+    line-height: 4rem;
+}
+.heading-level3 {
+    font-family: 'Rakesly-Regular', sans-serif;
+    color: #333333;
+    font-size: 2.5rem;
+}
+
+/*Image Style*/
+.electrolytes-image {
+    /*width: 100%;*/
+    max-width: 100%;
+    object-fit: cover;
+}
+/*Text Style*/
+.plain-text {
+    font-size: 20px;
+    font-weight: 600;
+}
+.caption-text {
+    font-family: 'Rakesly-Light', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/*Lists Style*/
+ul {
+    list-style: none;
+}
+ul li:before {
+    content: '✓';
+    margin-right: 20px;
+}
+li {
+    font-weight: bold;
+    color: var(--primary-red);
+}
