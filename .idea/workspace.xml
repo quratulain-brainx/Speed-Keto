@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e186b4b-9267-48fb-82e6-cd77b3c9b887" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/mctoil-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/border-bottom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/border-top.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/energyicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/flamegreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/hearthealthicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/ingredmtcoil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/mctoilwithcream.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/mentalfocus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mctoil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/mctoil-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/mctoil-style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +51,7 @@
       <updated>1570618092948</updated>
       <workItem from="1570618094096" duration="26700000" />
       <workItem from="1571030990566" duration="1617000" />
-      <workItem from="1571033716178" duration="11603000" />
+      <workItem from="1571033716178" duration="11960000" />
     </task>
     <servers />
   </component>

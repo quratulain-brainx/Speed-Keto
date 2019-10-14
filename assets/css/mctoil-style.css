@@ -77,6 +77,8 @@
 .reference-container a:link {
     text-decoration: none;
     color: var(--primary-grey);
+    overflow-wrap: break-word;
+    cursor: pointer;
 }
 .reference-container a:visited {
     color: #05b8b9;
