@@ -1,0 +1,119 @@
+/*Text Style*/
+.mct-plain-text {
+    font-size: 20px;
+    font-weight: 500;
+}
+.mct-plain-text-v2 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #00c76a;
+}
+.mct-heading-level1 {
+    color: #00c76a;
+    font-size: 2.5rem;
+}
+.mct-heading-level2 {
+    font-family: 'Rakesly-Regular', sans-serif;
+    font-size: 2.5rem;
+    color: #00c76a;
+}
+.mct-heading-level2 span {
+    font-family: 'Rakesly-Regular', sans-serif;
+    font-size: 2.5rem;
+    color: var(--primary-grey);
+}
+.mct-heading-level3 {
+    font-family: 'Rakesly-Regular', sans-serif;
+    font-size: 2.5rem;
+    color: #000000;
+}
+.mct-heading-level3 span {
+    font-family: 'Rakesly-Regular', sans-serif;
+    font-size: 2.5rem;
+    color: #00c76a;
+}
+/*Images Style*/
+.mct-images {
+    width: 100%;
+    max-width: 250px;
+}
+.mct-images-v2 {
+    width: 100%;
+    max-width: 90%;
+}
+/*MCT OIL Guarantee*/
+.mct-guarantee-header {
+    background-color: var(--primary-red);
+}
+.mct-guarantee-heading {
+    color: #ffffff;
+    font-family: 'Rakesly-Regular', sans-serif;
+    font-size: 2.5rem;
+}
+.mct-guarantee-text {
+    font-family: 'Raleway', sans-serif;
+    color: #000000;
+    font-size: 20px;
+}
+
+/*References*/
+.reference-container {
+    background-color: var(--dark-grey);
+    overflow: hidden;
+}
+.reference-heading {
+    color: var(--primary-grey);
+}
+.reference-container p,
+.reference-container ul,
+.reference-container li {
+    color: var(--primary-grey);
+    font-size: 12px;
+}
+.reference-container p {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.reference-container a:link {
+    text-decoration: none;
+    color: var(--primary-grey);
+}
+.reference-container a:visited {
+    color: #05b8b9;
+}
+
+/*Benefits Section*/
+.benefits-container {
+    background-color: #00c76a;
+}
+.text-container {
+    position: relative;
+    background-color: #ffffff;
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #55555550;
+}
+.image-divider-top {
+    background-image: url(../img/border-top.svg);
+    position: absolute;
+    width: 100%;
+    max-width: 70%;
+    height: 100px;
+    top: 0;
+    right: 16%;
+    z-index: 2;
+}
+.image-divider-bottom {
+    background-image: url(../img/border-bottom.svg);
+    position: absolute;
+    width: 100%;
+    max-width: 70%;
+    height: 100px;
+    bottom: 0;
+    left: 16%;
+    z-index: 3;
+}
+/*Reasons Section*/
+.reasons-container {
+    margin-top: 100px;
+}

@@ -196,7 +196,9 @@ textarea {
     display: block;
     margin: auto;
   }
-  .header-text {
+  .mct-images {
+    width: 100%;
+    max-width: 50% !important;
   }
 }
 
