@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e186b4b-9267-48fb-82e6-cd77b3c9b887" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/ckelectrolytes-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/ElectrolyteLabelR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bloated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bottle2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/calcium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/ck-water-drinking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/dizzy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/elementsperiodictable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/headache.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/musclecramp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/potasium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/racingheart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sadpickle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sodium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/specialmodelimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ckelectrolytes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +63,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
